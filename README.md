@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sx66b
 - 👀 I’m interested in PYTHON PROGRAMMING
 - 🌱 I’m currently learning PYTHON
-- 📫 How to reach me on my discord
+- 📫 reach me on my discord - @17k#8793
 
 <!---
 sx66b/sx66b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
